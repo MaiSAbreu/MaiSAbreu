@@ -5,7 +5,7 @@
 <h3>Desenvolvedor Java-End </h3>
 
 - 🌱 Estou aprendendo Java
-- 📫 Fale comigo através do e-mail: mdjabreu11@gmail.com
+- 📫 Fale comigo através do e-mail: maiqcoisachata@gmail.com
 - 😄 Pronomes: O que você preferir
 - ⚡ Fun fact: Tenho 10 gatinhos e uma cadela velhinha :)
 
