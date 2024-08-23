@@ -6,7 +6,7 @@
 
 - 🌱 Estou aprendendo Java
 - 📫 Fale comigo através do e-mail: maiqcoisachata@gmail.com
-- 😄 Pronomes: O que você preferir
+- 😄 Pronomes: O que você preferir!
 - ⚡ Fun fact: Tenho 10 gatinhos e uma cadela velhinha :)
 
 <div>
